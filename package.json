@@ -1,0 +1,15 @@
+{
+  "name": "vituum-path-resolution",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "devDependencies": {
+    "vite": "^5.0.7",
+    "vituum": "file:lib/vituum",
+    "@vituum/vite-plugin-handlebars": "file:lib/vite-plugin-handlebars"
+  }
+}

@@ -6,5 +6,7 @@ npm run build
 npm run preview
 ```
 
-> [!NOTE]  
-> At this point everything is working as expected.
+> [!CAUTION]  
+> At this point only `dev` is working, `build` ends with error:
+
+![](docs/vite-build-error.png)
